@@ -1,10 +1,15 @@
 ## Technical writer
+<details>
+<summary>Skills</summary>
+
 |  | Skills |
-|-----:|---------------|
-|     1|    UI Design           |
-|     2|      UX Research         |
-|     3|           User Guides Writing     |
-<!--
+|-----:|-----------|
+|     1| User Manuals Writing|
+|     2| UI Design    |
+|     3| UX Research       |
+  
+</details>
+  <!--
 **NatalieMart/NatalieMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
