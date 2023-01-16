@@ -1,5 +1,9 @@
 ## Technical writer
-
+|  | Skills |
+|-----:|---------------|
+|     1|    UI Design           |
+|     2|      UX Research         |
+|     3|           User Guides Writing     |
 <!--
 **NatalieMart/NatalieMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
