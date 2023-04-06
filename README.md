@@ -5,17 +5,14 @@
 |  | Skills |
 |-----:|-----------|
 |     1| User Manuals Writing|
-|     2| UI Design    |
-|     3| UX Research       |
+|     2| Docs as Code|
+|     3| UI Design    |
+|     4|Task-oriented approach    |
   
 </details>
 
-> QUOTE
----
-
- | First | Second|
- |---:| ---:|
- |tel| tele|
+Hello, I've recently found myself enthralled by a clear and logical world of technical writing. I would be happy to contribute to the mission of making complex processes easy to understand for everyone. 
+ 
   <!--
 **NatalieMart/NatalieMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
